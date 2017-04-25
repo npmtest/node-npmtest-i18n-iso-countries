@@ -1,6 +1,7 @@
 # npmtest-i18n-iso-countries
 
-test coverage for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwittig/node-i18n-iso-countries#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-i18n-iso-countries.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-i18n-iso-countries) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-i18n-iso-countries.svg)](https://travis-ci.org/npmtest/node-npmtest-i18n-iso-countries)
+#### basic test coverage for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwittig/node-i18n-iso-countries#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-i18n-iso-countries.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-i18n-iso-countries) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-i18n-iso-countries.svg)](https://travis-ci.org/npmtest/node-npmtest-i18n-iso-countries)
+
 #### i18n for ISO 3166-1 country codes
 
 [![NPM](https://nodei.co/npm/i18n-iso-countries.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/i18n-iso-countries)
@@ -9,7 +10,7 @@ test coverage for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwitt
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-i18n-iso-countries/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-i18n-iso-countries/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-i18n-iso-countries/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-i18n-iso-countries/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-i18n-iso-countries/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-i18n-iso-countries/build/coverage.html/index.html)
 
@@ -121,7 +122,8 @@ test coverage for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwitt
         "test": "make test"
     },
     "typings": "index.d.js",
-    "version": "1.11.0"
+    "version": "1.11.0",
+    "bin": {}
 }
 ```
 
